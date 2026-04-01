@@ -2,7 +2,7 @@
 - git init
 - create new index.html file add and commit
 - create new github project and connect to the local project
-- create develop branch
+- create develop branch and push it
 - create new branch project-branch
 - create new project.html file. add link to file in index.html
 - commit and push
