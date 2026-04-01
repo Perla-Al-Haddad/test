@@ -1,0 +1,31 @@
+- create new project folder 
+- git init
+- create new index.html file add and commit
+- create new github project and connect to the local project
+- create develop branch
+- create new branch project-branch
+- create new project.html file. add link to file in index.html
+- commit and push
+- create pull request on github
+- checkout to develop
+- create new branch description-branch
+- add paragraph to index.html file
+- commit and push
+- create pull request on github
+- merge project-branch 
+- should merge successfully and get conflict on other PR
+- checkout to develop
+- fetch and rebase with origin 
+- checkout to description-branch
+- rebase interactive with develop
+- fix conflicts
+- rebase continue and push
+- merge on github
+- fetch rebase final changes
+- create release
+- git flow merge into develop and main
+- discuss github pages
+- discuss resets and reverts
+
+
+
