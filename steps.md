@@ -6,7 +6,7 @@
 - create new branch project-branch
 - create new project.html file. add link to file in index.html
 - commit and push
-- create pull request on github
+- create pull request on github SET TO DEVELOP
 - checkout to develop
 - create new branch description-branch
 - add paragraph to index.html file
