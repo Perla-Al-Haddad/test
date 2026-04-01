@@ -2,16 +2,16 @@
 - git init
 - create new index.html file add and commit
 - create new github project and connect to the local project
-- create develop branch
+- create develop branch and push it
 - create new branch project-branch
 - create new project.html file. add link to file in index.html
 - commit and push
-- create pull request on github
+- create pull request on github SET TO DEVELOP
 - checkout to develop
 - create new branch description-branch
 - add paragraph to index.html file
 - commit and push
-- create pull request on github
+- create pull request on github SET TO DEVELOP
 - merge project-branch 
 - should merge successfully and get conflict on other PR
 - checkout to develop
